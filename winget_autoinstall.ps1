@@ -23,9 +23,9 @@ $applications = @(
     "Python.Python.3.13",    		# Python
     "qBittorrent.qBittorrent", 		# qBittorrent
     "Starship.Starship",     		# Starship prompt
-	"Telegram.TelegramDesktop", 	# Telegram
-	"Microsoft.VCRedist.2015+.x64", # Visual C++
-	"Microsoft.VCRedist.2015+.x86", # Visual C++
+    "Telegram.TelegramDesktop", 	# Telegram
+    "Microsoft.VCRedist.2015+.x64", # Visual C++
+    "Microsoft.VCRedist.2015+.x86", # Visual C++
     "Git.Git",               		# Git	
     "Gyan.FFmpeg"           		# FFmpeg
 )
