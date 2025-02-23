@@ -14,20 +14,28 @@ Ensure-Admin
 
 # List of applications to install
 $applications = @(
-    "7zip.7zip",             		# 7-Zip
-    "Foxit.FoxitReader",    		# Foxit Reader
-    "Google.Chrome",       		  	# Google Chrome
-    "Mozilla.Firefox",       		# Firefox
-    "Cyanfish.NAPS2",           	# NAPS2 (Not Another PDF Scanner)
-    "Notepad++.Notepad++",   		# Notepad++
-    "Python.Python.3.13",    		# Python
-    "qBittorrent.qBittorrent", 		# qBittorrent
-    "Starship.Starship",     		# Starship prompt
-    "Telegram.TelegramDesktop", 	# Telegram
-    "Microsoft.VCRedist.2015+.x64", # Visual C++
-    "Microsoft.VCRedist.2015+.x86", # Visual C++
-    "Git.Git",               		# Git	
-    "Gyan.FFmpeg"           		# FFmpeg
+        "7zip.7zip",
+        "CrystalDewWorld.CrystalDiskInfo",
+        "Git.Git",
+        "Mozilla.Firefox",
+        "Notepad++.Notepad++",
+        "Google.Chrome",
+        "Cyanfish.NAPS2",
+        "Starship.Starship",
+        "Microsoft.Edge",
+        "qBittorrent.qBittorrent",
+        "Foxit.FoxitReader",
+        "Python.Launcher",
+        "Microsoft.VCRedist.2015+.x64",
+        "Microsoft.VCRedist.2015+.x86",
+        "Gyan.FFmpeg",
+        "Python.Python.3.13",
+        "Telegram.TelegramDesktop",
+        "Microsoft.AppInstaller",
+        "Microsoft.UI.Xaml.2.7",
+        "Microsoft.UI.Xaml.2.8",
+        "Microsoft.VCLibs.Desktop.14",
+        "Microsoft.WindowsTerminal"
 )
 
 # Install each application
